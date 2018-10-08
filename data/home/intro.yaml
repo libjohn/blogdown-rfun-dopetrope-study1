@@ -15,5 +15,5 @@ buttons:
 - link: 'https://rfun.library.duke.edu/intro2r'
   text: 'Start Learning'
 
-- link: '#portfolio'
+- link: '#workshops'
   text: 'Our Workshops'

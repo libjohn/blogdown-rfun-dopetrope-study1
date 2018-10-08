@@ -4,8 +4,8 @@ baseURL = "http://localhost:1313/"
 theme = "hugo-theme-dopetrope"
 
 [params.portfolio]
-    title = "Our Workshps"
-    foldername = "portfolio"
+    title = "Our Workshops"
+    foldername = "workshops"
     findoutmoretext = "Find out more"
 
 [params.blog]
@@ -13,6 +13,9 @@ theme = "hugo-theme-dopetrope"
     viewalltext = "View All"
     foldername = "blog"
 
-[params.settings]
-    googleanalytics = "UA-113904582-1"
-    disqus = "hugo-dopetrope"
+#[params.settings]
+#    googleanalytics = "UA-113904582-1"
+#    disqus = "hugo-dopetrope"
+    
+    
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
