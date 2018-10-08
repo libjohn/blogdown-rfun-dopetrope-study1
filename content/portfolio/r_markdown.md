@@ -3,6 +3,7 @@ description = "R Markdown:  Hands-on Workshop"
 thumbnail = "images/portfolio_rmarkdown.png"
 image = "images/rmarkdown_big_banner.jpg"
 title = "R Markdown Workshop"
+weight = 10
 slug = "rmarkdown"
 author = "John Smith"
 draft = false

@@ -2,8 +2,9 @@
 description = "Portfolio item description"
 thumbnail = "images/pic04.jpg"
 image = "images/pic01.jpg"
-title = "4 Portfolio item"
-slug = "4-portfolio"
+title = "ZZZ Zope Portfolio item"
+weight = "60"
+slug = "zope-portfolio"
 author = "John Smith"
 draft = false
 +++

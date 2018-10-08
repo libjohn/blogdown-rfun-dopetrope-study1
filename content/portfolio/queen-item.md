@@ -4,6 +4,7 @@ thumbnail = "images/pic04.jpg"
 image = "images/pic01.jpg"
 title = "nuffin Portfolio item"
 slug = "Quiggles-portfolio"
+weight = 20
 author = "John Smith"
 draft = false
 +++

@@ -5,7 +5,7 @@ theme = "hugo-theme-dopetrope"
 
 [params.portfolio]
     title = "Our Workshops"
-    foldername = "workshops"
+    foldername = "portfolio"
     findoutmoretext = "Find out more"
 
 [params.blog]
