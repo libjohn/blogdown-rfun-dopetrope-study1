@@ -1,0 +1,14 @@
+position: "right"
+
+sections:
+- image: "images/Rfun1.png"
+  imagelink: "#"
+  title: "Rfun is a DVS learning series"
+  description: "The 'R We Having Fun Yet?' learning series is part of the Data & Visualization Services Workshop series"
+  buttonlink: "https://library.duke.edu/data/workshops"
+  buttontext: "DVS Workshops"
+
+- title: "Rfun Blog"
+  description: "Veroeros sed amet blandit consequat veroeros lorem blandit adipiscing et feugiat sed lorem consequat feugiat lorem dolore."
+  buttonlink: "#"
+  buttontext: "Ipsum consequat"
